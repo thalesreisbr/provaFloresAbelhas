@@ -1,0 +1,278 @@
+.titulo{
+	position: absolute;
+	width: 764px;
+	height: 94px;
+	left: 135px;
+	top: 75px;
+
+	font-family: IBM Plex Serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 72px;
+	line-height: 94px;
+	/* identical to box height */
+
+	display: flex;
+	align-items: center;
+	text-align: center;
+	letter-spacing: 0.04em;
+
+	color: #C87092;
+}
+.descricao{
+	position: absolute;
+	width: 574px;
+	height: 108px;
+	left: 138px;
+	top: 256px;
+
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	line-height: 150%;
+	/* or 36px */
+
+	letter-spacing: 0.03em;
+
+	color: #494949;
+}
+#corpoFlores{
+	position: absolute;
+width: 1162px;
+height: 914px;
+left: 144px;
+top: 721px;
+}
+.textoNomeFlor{
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	line-height: 28px;
+	letter-spacing: 0.03em;
+
+	color: #494949;
+}
+#boxSelecaoAbelhas{
+	position: absolute;
+	width: 1169px;
+	height: 111px;
+	left: 135px;
+	top: 407px;
+}
+.imgFlor{
+	width: 200px;
+	height: 200px;
+}
+.botaoMes{
+width: 68.22px;
+height: 71.37px;
+margin-left: 18px;
+
+background: #FFFFFF;
+border: 1.05315px solid #D7D6D6;
+box-sizing: border-box;
+box-shadow: 0px 4.21261px 4.21261px rgba(0, 0, 0, 0.25);
+
+}
+#mesesIndex{
+	position: absolute;
+	width: 1169px;
+	height: 72.67px;
+	left: 135px;
+	top: 568.17px;
+
+}
+#selectAbelhaIndex{
+	position: absolute;
+width: 1169px;
+height: 75px;
+left: 135px;
+top: 443px;
+
+border: 1px solid #494949;
+box-sizing: border-box;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.botaoCadastrarFlor{
+	cursor: pointer;
+	position: absolute;
+	width: 277px;
+	height: 57px;
+	/*Left é 1023 */
+	left: 1123px;
+	top: 109px;
+
+	border: 0.5px solid #C87092;
+	box-sizing: border-box;
+	box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.TextoCadastroFlor{
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	line-height: 35px;
+	text-align: center;
+	letter-spacing: 0.03em;
+
+	color: #FD96BE;
+}
+.botaoSubmitCadastroFlor{
+cursor: pointer;
+	width: 277px;
+height: 57px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 30px;
+line-height: 35px;
+text-align: center;
+letter-spacing: 0.03em;
+
+margin-left: 40px;
+color: #FFFFFF;
+border-color: white;
+
+background: #FFB5C9;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.tituloCadastrarFlor{
+
+
+font-family: IBM Plex Serif;
+font-style: normal;
+font-weight: bold;
+font-size: 72px;
+line-height: 94px;
+/* identical to box height */
+
+text-align: center;
+letter-spacing: 0.03em;
+color: #FD96BE;
+}
+.descricaoCadastrarFlor{
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 36px;
+	line-height: 42px;
+	letter-spacing: 0.03em;
+
+	color: #494949;
+}
+#bodyCadastrarFlor{
+	text-align: center;;
+}
+.inputTextCadastroFlor{
+margin-bottom: 10px;
+margin-left: 30px;
+width: 820px;
+height: 37px;
+
+background: #FFFFFF;
+border: 1.05027px solid #494949;
+box-sizing: border-box;
+}
+.textAreaCadastroFlor{
+	
+width: 1069px;
+height: 37px;
+margin-bottom: 10px;
+margin-left: 30px;
+background: #FFFFFF;
+border: 1.05296px solid #494949;
+box-sizing: border-box;
+}
+.labelFormu{
+	margin-left: 30px;
+	margin-bottom: 10px;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 36px;
+	line-height: 42px;
+	letter-spacing: 0.03em;
+
+	color: #494949;
+}
+#file{
+	cursor: pointer;
+	position: absolute;
+width: 211px;
+height: 209px;
+left: 1173px; 
+background: #FFBED7;
+border-radius: 150px;
+}
+#textoEscolhaImagem{
+	position: absolute;
+	margin-top: 170px;
+	left: 1200px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 19px;
+/* identical to box height */
+
+letter-spacing: 0.03em;
+
+color: #C87092
+}
+.abelhasSelecionar{
+	border: 5pt;
+	width: 300px;
+	border-style: inside;
+	border-color: black;
+}
+#imprima{
+	margin-top: 25px;
+}
+.margin{
+	margin-top: 25px;
+	margin-left: 15px;	
+}
+.selecionadoAbelha{
+	margin-right: 10px;
+	background-color:  #FFBED7;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	line-height: 42px;
+	letter-spacing: 0.03em;
+	border-radius: 10px;
+}
+.link{
+	text-decoration: none;
+	font-family: IBM Plex Serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 72px;
+	line-height: 94px;
+	color: #C87092;
+}
+.botaoCancelar{
+	cursor: pointer;
+	width: 277px;
+	height: 57px;
+	border: 0.5px solid #C87092;
+	
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	line-height: 35px;
+	text-align: center;
+	letter-spacing: 0.03em;
+
+	color: #FD96BE;
+
+	background-color: white;
+	box-sizing: border-box;
+	box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
